@@ -16,3 +16,15 @@ The project has a series of stakeholders including:
 * End customers - will take their business to other organisations if the system results in long wait times or poor service.
 
 ## Empathy Maps:
+**Think and feel (company POV):**
+•	Current situation is that RMs are unable to provide exceptional service to customers due “varying number and nature of holiday packages”.
+•	RMs cannot possess all the knowledge of the company products but instead they do have in depth knowledge of some particular products and can provide exceptional service to some customer they contacted frequently.
+•	The current operation however is restricting RMs to perform what they are best at as a consequence their customers might experience poor services.
+**See:**
+•	The company is currently seeing poor customer service due the complicated nature of their current system.
+•	Their system is restring potential RMs to performs the best of their ability as a consequence their customers are not putting their trust to the company.
+•	Due to poor customer service products are not as appealing in the marketplace. So, boosting the customer service might automatically increase the present of the products in the marketplace.
+**Hear**
+•	RMs does not have the required/appropriate for a particular product and while helping customer without the essential required knowledge lead to complaint from their customers such as poor services, RMs are not qualified, etc.
+•	This particular company may not be reliable as compared to other companies (i.e. their competitors).
+•	Customer feedback does not have the opportunity to talk and receive advice from an appropriate RMs.
