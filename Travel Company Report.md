@@ -24,7 +24,7 @@ The project has a series of stakeholders including:
 * The company is currently seeing poor customer service due the complicated nature of their current system.
 * Their system is restring potential RMs to performs the best of their ability as a consequence their customers are not putting their trust to the company.
 * Due to poor customer service products are not as appealing in the marketplace. So, boosting the customer service might automatically increase the present of the products in the marketplace.
-**Hear**
+**Hear:**
 * RMs does not have the required/appropriate for a particular product and while helping customer without the essential required knowledge lead to complaint from their customers such as poor services, RMs are not qualified, etc.
 * This particular company may not be reliable as compared to other companies (i.e. their competitors).
 * Customer feedback does not have the opportunity to talk and receive advice from an appropriate RMs.
