@@ -21,7 +21,7 @@ The project has a series of stakeholders including:
 
 ## Empathy Maps:
 **Company Point of View** <br/>
-**Think and feel**
+**Think and feel:**
 * Current situation is that RMs are unable to provide exceptional service to customers due “varying number and nature of holiday packages”.
 * RMs cannot possess all the knowledge of the company products but instead they do have in depth knowledge of some particular products and can provide exceptional service to some customer they contacted frequently.
 * The current operation however is restricting RMs to perform what they are best at as a consequence their customers might experience poor services.
@@ -36,10 +36,19 @@ The project has a series of stakeholders including:
 * This particular company may not be reliable as compared to other companies (i.e. their competitors).
 * Customer feedback does not have the opportunity to talk and receive advice from an appropriate RMs.
 
+**Pain:**
+
+
+**Gain:**
+
+
 **Customer Point of View** <br/>
-**Say & Do:**
-* Change to another travel company due to being given vague or inadequate information. 
-* Ask about details relating to their desired holiday package. 
+**Think and Feel:**
+
+**See:**
+* Other customers and friends saying that they will switch to another company as representatives do not always have the correct knowledge of my desired product
+
+**Hear:**
 
 **Pain:**
 * Being linked with a relationship manager with poor knowledge about the destination and traditions of a holiday package. 
