@@ -44,11 +44,15 @@ The project has a series of stakeholders including:
 
 **Customer Point of View** <br/>
 **Think and Feel:**
+* They may feel frustrated about the poor customer service they received from the RMs on call. 
+* They may think that the company is unreliable for providing customers with desired information. 
 
 **See:**
 * Other customers and friends saying that they will switch to another company as representatives do not always have the correct knowledge of my desired product
 
 **Hear:**
+* They may hear from relatives or friends saying that the travel company is unreliable for desired information. 
+* They may hear from RMs saying that they do not have the desired information. 
 
 **Pain:**
 * Being linked with a relationship manager with poor knowledge about the destination and traditions of a holiday package. 
