@@ -1,3 +1,4 @@
+
 # Information Systems Development Methodologies - Assignment 1
 ## Travel Company Call Management Centre
 ## Luke Phillips, Kenny Tran, Anthony Nguyen Tran, Nam Dang
@@ -6,7 +7,11 @@
 This project is commissioned by a major travel company and aims to improve their existing call management system for sales of holiday packages. This will be achieved through better management of relationship manager (RM) skills customer demographics to correctly assign RMs to customers who require their knowledge. The objective is to reduce wait times and ensure chosen representatives have the product knowledge required by each customer's enquiry. This change is to improve customer experience and therefore improve the likelihood of initial product purchases and repeat business from customers. Additionally, the project aims to improve the experience for repeat customers, encouraging more purchases from the agency. All of these objectives will improve revenue for the agency and improve brand image with customers as a reliable service.
 
 ## Problem Definition:
-
+* During Busy Times, customers are directed to an interactive voice response system which results in lower levels of customer engagement and loss of opportunities.
+* Priority/Repeated/Potential clients hang up whilst in the waiting que
+* For Outbound calls, the Target List formed using the tuple method is very vague and lacking critical information as it does not gather enough details. (Outbound list can be overlapped with inbound for leads)
+* The scoring system for inbound calls using the 1-10 based method uses call duration/handling time which should not be the basis for probability in sales. (Should have a system where outbound call numbers are ticked off whenever outbound number has been in contact)
+*	Interactive Voice Response unit does not cater for all customers as a touch tone service should also be available. (Communication problems, customers can be accents or language difficulties)
 
 ## Stakeholders:
 The project has a series of stakeholders including:
@@ -30,3 +35,15 @@ The project has a series of stakeholders including:
 * RMs does not have the required/appropriate for a particular product and while helping customer without the essential required knowledge lead to complaint from their customers such as poor services, RMs are not qualified, etc.
 * This particular company may not be reliable as compared to other companies (i.e. their competitors).
 * Customer feedback does not have the opportunity to talk and receive advice from an appropriate RMs.
+
+**Say & Do:**
+* Change to another travel company due to being given vague or inadequate information. 
+* Ask about details relating to their desired holiday package. 
+
+**Pain:**
+* Being linked with a relationship manager with poor knowledge about the destination and traditions of a holiday package. 
+* Long wait times when making inbound calls. 
+
+**Gain:**
+* When linked with a RM, can receive adequate information regarding the user’s desired holiday package. 
+* Is informed enough to choose whether to purchase or reject the holiday package. 
