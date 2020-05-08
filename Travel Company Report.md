@@ -30,3 +30,15 @@ The project has a series of stakeholders including:
 * RMs does not have the required/appropriate for a particular product and while helping customer without the essential required knowledge lead to complaint from their customers such as poor services, RMs are not qualified, etc.
 * This particular company may not be reliable as compared to other companies (i.e. their competitors).
 * Customer feedback does not have the opportunity to talk and receive advice from an appropriate RMs.
+
+**Say & Do:**
+* Change to another travel company due to being given vague or inadequate information. 
+* Ask about details relating to their desired holiday package. 
+
+**Pain:**
+* Being linked with a relationship manager with poor knowledge about the destination and traditions of a holiday package. 
+* Long wait times when making inbound calls. 
+
+**Gain:**
+* When linked with a RM, can receive adequate information regarding the user’s desired holiday package. 
+* Is informed enough to choose whether to purchase or reject the holiday package. 
