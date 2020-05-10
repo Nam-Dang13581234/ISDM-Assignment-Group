@@ -19,6 +19,11 @@ The project has a series of stakeholders including:
 * Profiler tool - must correctly interface with the new system to generate customer profiles.
 * End customers - will take their business to other organisations if the system results in long wait times or poor service.
 
+## Project Assumptions:
+* Server and storage capacity is sufficient for all processess in the solution.
+* The company's telephone connection is already in place and outages will be managed by the provider.
+* The existing telephone and internet connection bandwidth will be sufficient.
+
 ## Empathy Maps:
 **Company Point of View** <br/>
 **Think and feel:**
