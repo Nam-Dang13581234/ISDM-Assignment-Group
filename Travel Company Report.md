@@ -19,6 +19,11 @@ The project has a series of stakeholders including:
 * Profiler tool - must correctly interface with the new system to generate customer profiles.
 * End customers - will take their business to other organisations if the system results in long wait times or poor service.
 
+## Project Assumptions:
+* Server and storage capacity is sufficient for all processess in the solution.
+* The company's telephone connection is already in place and outages will be managed by the provider.
+* The existing telephone and internet connection bandwidth will be sufficient.
+
 ## Empathy Maps:
 **Company Point of View** <br/>
 **Think and feel:**
@@ -46,11 +51,15 @@ The project has a series of stakeholders including:
 
 **Customer Point of View** <br/>
 **Think and Feel:**
+* They may feel frustrated about the poor customer service they received from the RMs on call. 
+* They may think that the company is unreliable for providing customers with desired information. 
 
 **See:**
 * Other customers and friends saying that they will switch to another company as representatives do not always have the correct knowledge of my desired product
 
 **Hear:**
+* They may hear from relatives or friends saying that the travel company is unreliable for desired information. 
+* They may hear from RMs saying that they do not have the desired information. 
 
 **Pain:**
 * Being linked with a relationship manager with poor knowledge about the destination and traditions of a holiday package. 
