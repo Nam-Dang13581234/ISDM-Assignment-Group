@@ -90,4 +90,5 @@ This Week
 
 
 ## Agile Methodology Used:
-This Week
+To complete this project, we have implemented the SCRUM methodology. We have treated each week as a sprint and created a new category of the report in each iteration based on that week's guidelines.
+We have used GitHub issues to generate a project backlog for report creation which are organised by the week (sprint) that they need to be completed in. These issues in the backlog are assigned to team members whose job it is to complete those tasks. Each person has used commit messages to document their progress as they submit changes to their assigned tasks and closed issues when that element of the backlog is complete.
