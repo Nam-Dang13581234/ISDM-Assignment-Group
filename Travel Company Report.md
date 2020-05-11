@@ -69,17 +69,17 @@ The project has a series of stakeholders including:
 * When linked with a RM, can receive adequate information regarding the user’s desired holiday package. 
 * Is informed enough to choose whether to purchase or reject the holiday package. 
 
-##Brainstorm of Solutions:
+## Brainstorm of Solutions:
 This Week
 
-##Project Backlog:
+## Project Backlog:
 This Week
 
-##Competitive Advantages:
+## Competitive Advantages:
 
 
-##Effects of Failure:
+## Effects of Failure:
 
 
-##Agile Methodology Used:
+## Agile Methodology Used:
 This Week
