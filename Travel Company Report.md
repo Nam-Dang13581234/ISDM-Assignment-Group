@@ -19,6 +19,11 @@ The project has a series of stakeholders including:
 * Profiler tool - must correctly interface with the new system to generate customer profiles.
 * End customers - will take their business to other organisations if the system results in long wait times or poor service.
 
+## Project Assumptions:
+* Server and storage capacity is sufficient for all processess in the solution.
+* The company's telephone connection is already in place and outages will be managed by the provider.
+* The existing telephone and internet connection bandwidth will be sufficient.
+
 ## Empathy Maps:
 **Company Point of View** <br/>
 **Think and feel:**
@@ -37,10 +42,12 @@ The project has a series of stakeholders including:
 * Customer feedback does not have the opportunity to talk and receive advice from an appropriate RMs.
 
 **Pain:**
-
+* RMs being match with new customers and/or existing customers where RMs have little knowledge about the products as a result unable to satisfied customers for their queries.
+* Company’s revenue and its present on the market can drastically falling if the performance of the company continues to unsatisfied more customers.
 
 **Gain:**
-
+* If RMs can be matched (inbound call) to the appropriate customers where RMs’ performance and knowledge can be helpful for those particular customers, RMs will have the opportunity to deliver the best possible customer service to meet customer’s satisfaction.
+* Customers’ satisfaction be can increase and will be continue to increase in the future, company’s revenue can be simultaneously increase as well which then allows the company to maintain its present on the market by being able to financially afford marketing and recruiting its employees.
 
 **Customer Point of View** <br/>
 **Think and Feel:**
@@ -61,3 +68,18 @@ The project has a series of stakeholders including:
 **Gain:**
 * When linked with a RM, can receive adequate information regarding the user’s desired holiday package. 
 * Is informed enough to choose whether to purchase or reject the holiday package. 
+
+## Brainstorm of Solutions:
+This Week
+
+## Project Backlog:
+This Week
+
+## Competitive Advantages:
+
+
+## Effects of Failure:
+
+
+## Agile Methodology Used:
+This Week
