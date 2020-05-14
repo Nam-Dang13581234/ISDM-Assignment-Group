@@ -71,7 +71,13 @@ The project has a series of stakeholders including:
 * Is informed enough to choose whether to purchase or reject the holiday package. 
 
 ## Brainstorm of Solutions:
-This Week
+*From 1-4 paragraph in the description*
+* Adjust the call flow rate for both inbound and outbound calls by matching RMs and end-customers according to RMs skills and customers profiles.
+* One way to improve the call flow rate is to match customers based on RM performance and product knowledge. For example, the system would do well in matching end-customers to well informed RMs with appropriate knowledge about the destination and its tradition (for both outbound and inbound).
+* A typical RM matching technique is segmenting customers into social and cultural segment according to their postcodes and surnames (using profiler tool). For RM profile may be depend on the age, sex, culture, language proficiency, experience and product knowledge. The system will utilise their profiles as a skill matcher between end-customers and RMs.
+* Newcomer RM profile need to be collected and initialised at hiring by taking 10 minutes questionnaires. We will then provide RM initial profiles for the system and the system will adjust according to RMs subsequent performance in selling packages and customers service.
+
+**Point 3 solution is based on assumption and thus does not need to further implementation/solve to achieve this solution. For other solutions need to implement a way to achieve this solution.**
 
 ## Project Backlog:
 **User Stories - Customer**
