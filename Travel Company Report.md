@@ -77,7 +77,6 @@ The project has a series of stakeholders including:
 * Phone System notifies customers of que waiting times in minues/hours and gives the option for a call back
 * Customers have the option to choose their own RM 
 * Interactive Voice Response is also available through touch tone for customers with speaking disabilities 
-**Point 3 solution is based on assumption and thus does not need to further implementation/solve to achieve this solution. For other solutions need to implement a way to achieve this solution.**
 
 ## Project Backlog:
 **User Stories - Customer**
