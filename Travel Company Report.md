@@ -8,6 +8,7 @@ This project is commissioned by a major travel company and aims to improve their
 ## Problem Definition:
 * During Busy Times, customers are directed to an interactive voice response system which results in lower levels of customer engagement and loss of opportunities.
 * Priority, Repeated and Potential clients hang up whilst in the waiting queue.
+* Customers are matched with RMs who may not have the required knowledge of their desired package, redirecting these customers lowers satisfaction.
 
 ## Stakeholders:
 The project has a series of stakeholders including:
@@ -68,18 +69,12 @@ The project has a series of stakeholders including:
 * Is informed enough to choose whether to purchase or reject the holiday package. 
 
 ## Brainstorm of Solutions:
-* Adjust the call flow rate for both inbound and outbound calls by matching RMs and end-customers according to RMs skills and customers profiles.
-* One way to improve the call flow rate is to match customers based on RM performance and product knowledge. For example, the system would do well in matching end-customers to well informed RMs with appropriate knowledge about the destination and its tradition (for both outbound and inbound).
-* A typical RM matching technique is segmenting customers into social and cultural segment according to their postcodes and surnames (using profiler tool). For RM profile may be depend on the age, sex, culture, language proficiency, experience and product knowledge. The system will utilise their profiles as a skill matcher between end-customers and RMs.
-* Newcomer RM profile need to be collected and initialised at hiring by taking 10 minutes questionnaires. We will then provide RM initial profiles for the system and the system will adjust according to RMs subsequent performance in selling packages and customers service.
-* The system retrieves a customer’s details from the database and displays it to a RM. The system then generates a script for RMs that would help them address those customers effectively through outbound calls. 
-* Another way the system handles outbound calls is creating a target list for each RM based on their skills and profile. This would help in linking customers with RMs that can provide desired information relating to certain holiday packages. Therefore, this ensures an improved customer service. 
-* In relation to inbound calls, the system generates a score for customers based on the likelihood of purchasing a product. Customers with a higher score are prioritised and served first which can result in improved sales for the company. 
-* Customers that make inbound calls are linked to the CMC which is a private automatic branch that routes the calls and utilises a distribution routine. This can help to minimise inbound call costs by reducing per-call handling time. 
-* Customers are given language options for the Interactive Voice Response system
-* Phone System notifies customers of que waiting times in minues/hours and gives the option for a call back
-* Customers have the option to choose their own RM 
-* Interactive Voice Response is also available through touch tone for customers with speaking disabilities 
+* Adjust the call flow for inbound and outbound calls by matching RMs to customers according to RM skills and customer profiles to even spread calls throughout the RM team.
+* Call routing can be improved by rating customers and RMs then prioritising matching highly rated people together to improve the experience for the best customers. Customers with a higher rating should also receive priority in the queue. Customers can be rated by their purchase history and call frequency using the existing profiler tool; while RMs can be rated from their experience, product knowledge and a short demographics survey in the recruitment process to gather cultural elements such as age, sex, culture and language proficiency.
+* The system retrieves a customer’s details from the database and displays it to a RM. The system then generates a script for RMs that would help them address those customers effectively and provide them with the most relevant and targeted product recommendations through outbound calls. 
+* Another way the system should handle outbound calls is creating a customer target list for each RM based on their skills, product knowledge and profile. This would help in linking customers with RMs that can provide desired information relating to certain holiday packages. Therefore, this ensures an improved customer service. 
+* Inbound calls can be routed through a CMC system which is a private call routing system. This will distribute the high volume of calls quickly and effectively to reduce telephone charges to both the customer and company and waiting times. This system should also notify customers of queue waiting times in minutes/hours and gives the option for a call back.
+* Customers should be given language options for the Interactive Voice Response system to hear their options in their preferred language. Interactive Voice Response should also be available through touch tone for customers with speaking disabilities.
 
 ## Project Backlog - Prioritised for Each Stakeholder:
 **User Stories - Customer**
