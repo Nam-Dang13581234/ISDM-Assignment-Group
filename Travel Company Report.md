@@ -75,6 +75,15 @@ This Week
 
 ## Project Backlog:
 **User Stories - Customer**
+* As a customer I want to be paired with a relationship manager so that I can know more about my travel package. 
+* As a customer I want to speak to an operator within my social/cultural area so that I can be comfortable speaking.  
+* As a customer I want to select my preferred language so that I can communicate more easily. 
+* As a customer I want to be directed immediately to a RM without waiting in Que so I can purchase my travel package. 
+* As a customer I want to speak to someone experienced in my culture so that I can gain insights into the travel package. 
+* As a customer I want to speak to multiple RMs so that I have many options and second opinions to choose from. 
+* As a customer I want to experience excellent customer service so that I can enjoy the phone conversation. 
+* As a customer I want my RM to know my details and current status so that I don’t have to relay my information. 
+* As a customer I want to be notified of the que waiting times so that I can call back at a later time.  
 
 **User Stories - Relationship Managers (RMs)**
 * As a RM, I want to be accurately profiled on hiring, so that my skills and knowledge can be used effectively to create a sale.
