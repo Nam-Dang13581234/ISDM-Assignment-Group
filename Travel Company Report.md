@@ -8,6 +8,7 @@ This project is commissioned by a major travel company and aims to improve their
 ## Problem Definition:
 * During Busy Times, customers are directed to an interactive voice response system which results in lower levels of customer engagement and loss of opportunities.
 * Priority, Repeated and Potential clients hang up whilst in the waiting queue.
+* Customers are matched with RMs who may not have the required knowledge of their desired package, redirecting these customers lowers satisfaction.
 
 ## Stakeholders:
 The project has a series of stakeholders including:
