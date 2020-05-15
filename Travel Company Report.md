@@ -8,9 +8,7 @@ This project is commissioned by a major travel company and aims to improve their
 
 ## Problem Definition:
 * During Busy Times, customers are directed to an interactive voice response system which results in lower levels of customer engagement and loss of opportunities.
-* Priority/Repeated/Potential clients hang up whilst in the waiting queue.
-* For Outbound calls, the Target List formed using the 'tuple method' is very vague and lacking critical information as it does not gather enough details.
-* Interactive Voice Response Unit does not cater for all customer's accessibility needs such as verbal impediments or language difficulties.
+* Priority, Repeated and Potential clients hang up whilst in the waiting queue.
 
 ## Stakeholders:
 The project has a series of stakeholders including:
@@ -71,16 +69,27 @@ The project has a series of stakeholders including:
 * Is informed enough to choose whether to purchase or reject the holiday package. 
 
 ## Brainstorm of Solutions:
-*From 1-4 paragraph in the description*
 * Adjust the call flow rate for both inbound and outbound calls by matching RMs and end-customers according to RMs skills and customers profiles.
 * One way to improve the call flow rate is to match customers based on RM performance and product knowledge. For example, the system would do well in matching end-customers to well informed RMs with appropriate knowledge about the destination and its tradition (for both outbound and inbound).
 * A typical RM matching technique is segmenting customers into social and cultural segment according to their postcodes and surnames (using profiler tool). For RM profile may be depend on the age, sex, culture, language proficiency, experience and product knowledge. The system will utilise their profiles as a skill matcher between end-customers and RMs.
 * Newcomer RM profile need to be collected and initialised at hiring by taking 10 minutes questionnaires. We will then provide RM initial profiles for the system and the system will adjust according to RMs subsequent performance in selling packages and customers service.
-
+* Customers are given language options for the Interactive Voice Response system
+* Phone System notifies customers of que waiting times in minues/hours and gives the option for a call back
+* Customers have the option to choose their own RM 
+* Interactive Voice Response is also available through touch tone for customers with speaking disabilities 
 **Point 3 solution is based on assumption and thus does not need to further implementation/solve to achieve this solution. For other solutions need to implement a way to achieve this solution.**
 
 ## Project Backlog:
 **User Stories - Customer**
+* As a customer I want to be paired with a relationship manager so that I can know more about my travel package. 
+* As a customer I want to speak to an operator within my social/cultural area so that I can be comfortable speaking.  
+* As a customer I want to select my preferred language so that I can communicate more easily. 
+* As a customer I want to be directed immediately to a RM without waiting in Que so I can purchase my travel package. 
+* As a customer I want to speak to someone experienced in my culture so that I can gain insights into the travel package. 
+* As a customer I want to speak to multiple RMs so that I have many options and second opinions to choose from. 
+* As a customer I want to experience excellent customer service so that I can enjoy the phone conversation. 
+* As a customer I want my RM to know my details and current status so that I don’t have to relay my information. 
+* As a customer I want to be notified of the que waiting times so that I can call back at a later time.  
 
 **User Stories - Relationship Managers (RMs)**
 * As a RM, I want to be accurately profiled on hiring, so that my skills and knowledge can be used effectively to create a sale.
