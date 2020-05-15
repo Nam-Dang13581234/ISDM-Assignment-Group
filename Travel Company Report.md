@@ -1,4 +1,3 @@
-
 # Information Systems Development Methodologies - Assignment 1
 ## Travel Company Call Management Centre
 ## Luke Phillips, Kenny Tran, Anthony Nguyen Tran, Nam Dang
@@ -82,23 +81,23 @@ The project has a series of stakeholders including:
 * Customers have the option to choose their own RM 
 * Interactive Voice Response is also available through touch tone for customers with speaking disabilities 
 
-## Project Backlog:
+## Project Backlog - Prioritised for Each Stakeholder:
 **User Stories - Customer**
-* As a customer I want to be paired with a relationship manager so that I can know more about my travel package. 
-* As a customer I want to speak to an operator within my social/cultural area so that I can be comfortable speaking.  
-* As a customer I want to select my preferred language so that I can communicate more easily. 
-* As a customer I want to be directed immediately to a RM without waiting in Que so I can purchase my travel package. 
-* As a customer I want to speak to someone experienced in my culture so that I can gain insights into the travel package. 
-* As a customer I want to speak to multiple RMs so that I have many options and second opinions to choose from. 
-* As a customer I want to experience excellent customer service so that I can enjoy the phone conversation. 
-* As a customer I want my RM to know my details and current status so that I don’t have to relay my information. 
-* As a customer I want to be notified of the que waiting times so that I can call back at a later time.  
+* As a customer, I want to be paired with a rerelationship manager with knowledge of my desired holiday, so that I can know more about the package.
+* As a customer, I want to select my preferred language so that I can communicate more easily. 
+* As a customer, I want to speak with someone understanding of my culutre and social area, so that I can be more comfortable.
+* As a customer, I want to be directed ASAP to a RM without waiting in queue for a prolonged time so I can purchase my travel package.
+* As a customer, I want to be notified of the queue waiting times so that I can call back at a later time.  
+* As a customer, I want to be able to speak with the same RM in subsequent calls, so that we can easily continue with our previous discussion.
+* As a customer, I want to receive a follow up call if my packages change or my RM is unavailable, so that I can adjust my plans accordingly.
+* As a customer, I want my RM to know my details and current product status, so that I don’t have to relay my information.
+* As a customer, I want to experience excellent customer service so that I can enjoy the phone conversation. 
 
 **User Stories - Relationship Managers (RMs)**
-* As a RM, I want to be accurately profiled on hiring, so that my skills and knowledge can be used effectively to create a sale.
 * As a RM, I want to be matched to customers requiring my knowledge, so that I can best perform my duties.
 * As a RM, I want to receive customer details and script guidelines for products to recommend in targetted outbound calls, so that I am aware of what the customer may want and can improve my service.
 * As a RM, I want to receive customer details, score and any past purchase history on inbound calls, so that I know their interests and recommend products based on them.
+* As a RM, I want to be accurately profiled on hiring, so that my skills and knowledge can be used effectively to create a sale.
 * As a Company Manager, I want RMs to be matched with customers based on their scores, so that the best customers are provided with the best service to encourage repeat sales.
 
 ## Competitive Advantages:
