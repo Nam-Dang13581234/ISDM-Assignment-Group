@@ -95,6 +95,18 @@ The project has a series of stakeholders including:
 * As a RM, I want to be accurately profiled on hiring, so that my skills and knowledge can be used effectively to create a sale.
 * As a Company Manager, I want RMs to be matched with customers based on their scores, so that the best customers are provided with the best service to encourage repeat sales.
 
+## Use Case Model
+
+
+## Activity Diagrams
+
+
+## Collaboration Diagram
+
+
+## Class Diagram
+
+
 ## Competitive Advantages:
 
 
