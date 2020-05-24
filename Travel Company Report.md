@@ -99,7 +99,11 @@ The project has a series of stakeholders including:
 ![Use Case Model](https://github.com/luke-p-2000/ISDM-Assignment-Group/blob/Development/images/Use%20Case%20Diagram(1).png)
 
 ## Activity Diagrams
-
+Score Based Matching
+![Diagram 1](https://github.com/luke-p-2000/ISDM-Assignment-Group/blob/master/images/Activity%20diagram%20-%20Nam%20Dang.png)
+Connecting to CMC
+![Diagram 2](https://github.com/luke-p-2000/ISDM-Assignment-Group/blob/master/Activity%20Diagram%20Kenny%20PNG.PNG)
+![Diagram 3]()
 
 ## Collaboration Diagram
 ![Collaboration Diagram](https://github.com/luke-p-2000/ISDM-Assignment-Group/blob/Development/images/Collaboration%20Diagram.png)
