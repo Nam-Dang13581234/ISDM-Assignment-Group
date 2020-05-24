@@ -109,7 +109,7 @@ Connecting to CMC
 ![Collaboration Diagram](https://github.com/luke-p-2000/ISDM-Assignment-Group/blob/Development/images/Collaboration%20Diagram.png)
 
 ## Class Diagram
-
+![Class Diagram](https://github.com/luke-p-2000/ISDM-Assignment-Group/blob/master/images/Class%20Diagram.png)
 
 ## Competitive Advantages:
 
