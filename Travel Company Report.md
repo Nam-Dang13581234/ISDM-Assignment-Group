@@ -112,10 +112,15 @@ Connecting to CMC
 ![Class Diagram](https://github.com/luke-p-2000/ISDM-Assignment-Group/blob/master/images/Class%20Diagram.png)
 
 ## Competitive Advantages:
-
+The new system would have many advantages to make the company more competitive. The decrease in queue times would lead to increased customer satisfaction, improving opportunities for sales and profit. The customer's needs can be better addressed through improved language support to reach a wider audience not comfortable making their purchases in English, this would also lead to a larger customer base and hence more sales. This wider customer base would be facilitated through the system's aim of improved call routing.
+Relationship Managers would have a greater knowledge of their customer's, improving their effectiveness of sales techniques and improving customer experience to drive repeat business. These repeat customers and the inevitable word of mouth increases the services performance standards of the company and establishes a solid base of income with a positive reputation in the industry.
+Improved customer experience and satisfaction could result in further purchases from the company, as satisfied customers will likely return to the company in the future. As the system aims to keep matches between relationship managers and customers across multiple calls, the rapport built between customer and relationship manager would help to drive more future sales.
+Ideally, the increased revenue from new customers facilitated by the new system would outweigh the cost of implementing it and further profits could be used to upgrade this system for future readiness and a wider reach to customers to attract even more potential clients.
 
 ## Effects of Failure:
-
+If the system failed its primary objective of reducing wait times, customers may give up and leave the company for a competitor losing large amounts of revenue and repeat business. This could even cause existing customers to leave for competitors which would cause immense damage to both reputation and bottom line, potentially bankrupting the company. Additionally, even if the system succeeds in connecting people in a timely manner, but the connection is not stable due to the system prioritising new calls over existing ones, there will be similar effects of customer dissatisfaction which will cost the company many sales.
+If the system provides incorrect details of customers to relationship managers or fails to correctly match based on customer's needs, the experience would be poor and dissatisfied customers could spread negative feelings about the company to friends which would leave a large impact on the company's public reputation.
+In the worst case, if the system failed to meet an operational state in routing calls or the project is never finished, then all money invested by the company would be wasted which could have catastrophic impacts on shareholders and even bankrupt the company.
 
 ## Agile Methodology Used:
 To complete this project, we have implemented the SCRUM methodology. We have treated each week as a sprint and created a new category of the report in each iteration based on that week's guidelines.
