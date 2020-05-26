@@ -1,4 +1,3 @@
-
 # Information Systems Development Methodologies - Assignment 1
 ## Travel Company Call Management Centre
 ## Luke Phillips, Kenny Tran, Anthony Nguyen Tran, Nam Dang
@@ -9,6 +8,7 @@ This project is commissioned by a major travel company and aims to improve their
 ## Problem Definition:
 * During Busy Times, customers are directed to an interactive voice response system which results in lower levels of customer engagement and loss of opportunities.
 * Priority, Repeated and Potential clients hang up whilst in the waiting queue.
+* Customers are matched with RMs who may not have the required knowledge of their desired package, redirecting these customers lowers satisfaction.
 
 ## Stakeholders:
 The project has a series of stakeholders including:
@@ -69,44 +69,59 @@ The project has a series of stakeholders including:
 * Is informed enough to choose whether to purchase or reject the holiday package. 
 
 ## Brainstorm of Solutions:
-* Adjust the call flow rate for both inbound and outbound calls by matching RMs and end-customers according to RMs skills and customers profiles.
-* One way to improve the call flow rate is to match customers based on RM performance and product knowledge. For example, the system would do well in matching end-customers to well informed RMs with appropriate knowledge about the destination and its tradition (for both outbound and inbound).
-* A typical RM matching technique is segmenting customers into social and cultural segment according to their postcodes and surnames (using profiler tool). For RM profile may be depend on the age, sex, culture, language proficiency, experience and product knowledge. The system will utilise their profiles as a skill matcher between end-customers and RMs.
-* Newcomer RM profile need to be collected and initialised at hiring by taking 10 minutes questionnaires. We will then provide RM initial profiles for the system and the system will adjust according to RMs subsequent performance in selling packages and customers service.
-* The system retrieves a customer’s details from the database and displays it to a RM. The system then generates a script for RMs that would help them address those customers effectively through outbound calls. 
-* Another way the system handles outbound calls is creating a target list for each RM based on their skills and profile. This would help in linking customers with RMs that can provide desired information relating to certain holiday packages. Therefore, this ensures an improved customer service. 
-* In relation to inbound calls, the system generates a score for customers based on the likelihood of purchasing a product. Customers with a higher score are prioritised and served first which can result in improved sales for the company. 
-* Customers that make inbound calls are linked to the CMC which is a private automatic branch that routes the calls and utilises a distribution routine. This can help to minimise inbound call costs by reducing per-call handling time. 
-* Customers are given language options for the Interactive Voice Response system
-* Phone System notifies customers of que waiting times in minues/hours and gives the option for a call back
-* Customers have the option to choose their own RM 
-* Interactive Voice Response is also available through touch tone for customers with speaking disabilities 
+* Adjust the call flow for inbound and outbound calls by matching RMs to customers according to RM skills and customer profiles to even spread calls throughout the RM team.
+* Call routing can be improved by rating customers and RMs then prioritising matching highly rated people together to improve the experience for the best customers. Customers with a higher rating should also receive priority in the queue. Customers can be rated by their purchase history and call frequency using the existing profiler tool; while RMs can be rated from their experience, product knowledge and a short demographics survey in the recruitment process to gather cultural elements such as age, sex, culture and language proficiency.
+* The system retrieves a customer’s details from the database and displays it to a RM. The system then generates a script for RMs that would help them address those customers effectively and provide them with the most relevant and targeted product recommendations through outbound calls. 
+* Another way the system should handle outbound calls is creating a customer target list for each RM based on their skills, product knowledge and profile. This would help in linking customers with RMs that can provide desired information relating to certain holiday packages. Therefore, this ensures an improved customer service. 
+* Inbound calls can be routed through a CMC system which is a private call routing system. This will distribute the high volume of calls quickly and effectively to reduce telephone charges to both the customer and company and waiting times. This system should also notify customers of queue waiting times in minutes/hours and gives the option for a call back.
+* Customers should be given language options for the Interactive Voice Response system to hear their options in their preferred language. Interactive Voice Response should also be available through touch tone for customers with speaking disabilities.
 
-## Project Backlog:
+## Project Backlog - Prioritised for Each Stakeholder:
 **User Stories - Customer**
-* As a customer I want to be paired with a relationship manager so that I can know more about my travel package. 
-* As a customer I want to speak to an operator within my social/cultural area so that I can be comfortable speaking.  
-* As a customer I want to select my preferred language so that I can communicate more easily. 
-* As a customer I want to be directed immediately to a RM without waiting in Que so I can purchase my travel package. 
-* As a customer I want to speak to someone experienced in my culture so that I can gain insights into the travel package. 
-* As a customer I want to speak to multiple RMs so that I have many options and second opinions to choose from. 
-* As a customer I want to experience excellent customer service so that I can enjoy the phone conversation. 
-* As a customer I want my RM to know my details and current status so that I don’t have to relay my information. 
-* As a customer I want to be notified of the que waiting times so that I can call back at a later time.  
+* As a customer, I want to be paired with a rerelationship manager with knowledge of my desired holiday, so that I can know more about the package.
+* As a customer, I want to select my preferred language so that I can communicate more easily. 
+* As a customer, I want to speak with someone understanding of my culutre and social area, so that I can be more comfortable.
+* As a customer, I want to be directed ASAP to a RM without waiting in queue for a prolonged time so I can purchase my travel package.
+* As a customer, I want to be notified of the queue waiting times so that I can call back at a later time.  
+* As a customer, I want to be able to speak with the same RM in subsequent calls, so that we can easily continue with our previous discussion.
+* As a customer, I want to receive a follow up call if my packages change or my RM is unavailable, so that I can adjust my plans accordingly.
+* As a customer, I want my RM to know my details and current product status, so that I don’t have to relay my information.
+* As a customer, I want to experience excellent customer service so that I can enjoy the phone conversation. 
 
 **User Stories - Relationship Managers (RMs)**
-* As a RM, I want to be accurately profiled on hiring, so that my skills and knowledge can be used effectively to create a sale.
 * As a RM, I want to be matched to customers requiring my knowledge, so that I can best perform my duties.
 * As a RM, I want to receive customer details and script guidelines for products to recommend in targetted outbound calls, so that I am aware of what the customer may want and can improve my service.
 * As a RM, I want to receive customer details, score and any past purchase history on inbound calls, so that I know their interests and recommend products based on them.
+* As a RM, I want to be accurately profiled on hiring, so that my skills and knowledge can be used effectively to create a sale.
 * As a Company Manager, I want RMs to be matched with customers based on their scores, so that the best customers are provided with the best service to encourage repeat sales.
 
-## Competitive Advantages:
+## Use Case Model
+![Use Case Model](https://github.com/luke-p-2000/ISDM-Assignment-Group/blob/Development/images/Use%20Case%20Diagram(1).png)
 
+## Activity Diagrams
+Score Based Matching
+![Diagram 1](https://github.com/luke-p-2000/ISDM-Assignment-Group/blob/master/images/Activity%20diagram%20-%20Nam%20Dang.png)
+Connecting to CMC
+![Diagram 2](https://github.com/luke-p-2000/ISDM-Assignment-Group/blob/master/Activity%20Diagram%20Kenny%20PNG.PNG)
+![Diagram 3]()
+
+## Collaboration Diagram
+![Collaboration Diagram](https://github.com/luke-p-2000/ISDM-Assignment-Group/blob/Development/images/Collaboration%20Diagram.png)
+
+## Class Diagram
+![Class Diagram](https://github.com/luke-p-2000/ISDM-Assignment-Group/blob/master/images/Class%20Diagram.png)
+
+## Competitive Advantages:
+The new system would have many advantages to make the company more competitive. The decrease in queue times would lead to increased customer satisfaction, improving opportunities for sales and profit. The customer's needs can be better addressed through improved language support to reach a wider audience not comfortable making their purchases in English, this would also lead to a larger customer base and hence more sales. This wider customer base would be facilitated through the system's aim of improved call routing.
+Relationship Managers would have a greater knowledge of their customer's, improving their effectiveness of sales techniques and improving customer experience to drive repeat business. These repeat customers and the inevitable word of mouth increases the services performance standards of the company and establishes a solid base of income with a positive reputation in the industry.
+Improved customer experience and satisfaction could result in further purchases from the company, as satisfied customers will likely return to the company in the future. As the system aims to keep matches between relationship managers and customers across multiple calls, the rapport built between customer and relationship manager would help to drive more future sales.
+Ideally, the increased revenue from new customers facilitated by the new system would outweigh the cost of implementing it and further profits could be used to upgrade this system for future readiness and a wider reach to customers to attract even more potential clients.
 
 ## Effects of Failure:
-
+If the system failed its primary objective of reducing wait times, customers may give up and leave the company for a competitor losing large amounts of revenue and repeat business. This could even cause existing customers to leave for competitors which would cause immense damage to both reputation and bottom line, potentially bankrupting the company. Additionally, even if the system succeeds in connecting people in a timely manner, but the connection is not stable due to the system prioritising new calls over existing ones, there will be similar effects of customer dissatisfaction which will cost the company many sales.
+If the system provides incorrect details of customers to relationship managers or fails to correctly match based on customer's needs, the experience would be poor and dissatisfied customers could spread negative feelings about the company to friends which would leave a large impact on the company's public reputation.
+In the worst case, if the system failed to meet an operational state in routing calls or the project is never finished, then all money invested by the company would be wasted which could have catastrophic impacts on shareholders and even bankrupt the company.
 
 ## Agile Methodology Used:
 To complete this project, we have implemented the SCRUM methodology. We have treated each week as a sprint and created a new category of the report in each iteration based on that week's guidelines.
-We have used GitHub issues to generate a project backlog for report creation which are organised by the week (sprint) that they need to be completed in. These issues in the backlog are assigned to team members whose job it is to complete those tasks. Each person has used commit messages to document their progress as they submit changes to their assigned tasks and closed issues when that element of the backlog is complete.
+We have used GitHub issues to generate a project backlog for report creation which are organised by the week (sprint) that they need to be completed in. These issues in the backlog are assigned to team members whose job it is to complete those tasks. Each person has used commit messages to document their progress as they submit changes to their assigned tasks and closed issues when that element of the backlog is complete. At the end of each week, we have reveived a progress in a retrospective meeting and established our goals for the next iteration.
