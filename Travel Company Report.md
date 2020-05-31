@@ -2,6 +2,9 @@
 ## Travel Company Call Management Centre
 ## Luke Phillips, Kenny Tran, Anthony Nguyen Tran, Nam Dang
 
+## Video Presentation:
+https://youtu.be/xT37hIwWgyo
+
 <div style="page-break-after: always;"></div>
 
 ## Project Objectives:
